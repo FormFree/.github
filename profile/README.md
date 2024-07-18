@@ -2,7 +2,7 @@
 
 ## Hi! Welcome to FormFree's GitHub! 👋
 
-- Our [DID document](https://github.com/FormFree/formfree.github.io/tree/main/.well-known/did.json): Coming soon!
+- [FormFree DID document](https://github.com/FormFree/formfree.github.io/tree/main/.well-known/did.json) (Coming soon!)
 - [Decentralized Verifiable Credential Exchange (DCVX)](https://github.com/TBD54566975/incubation-dcx))
   - [protocols](https://github.com/FormFree/formfree.github.io/tree/main/.well-known/protocols)
   - [schemas](https://github.com/FormFree/formfree.github.io/tree/main/.well-known/schemas)
