@@ -2,4 +2,8 @@
 
 ## Hi! Welcome to FormFree's GitHub! 👋
 
-If you're here looking for our did.json, DVCX protocols or schemas, check out [formfree.github.io](https://github.com/FormFree/formfree.github.io)
+- Our [DID document](https://github.com/FormFree/formfree.github.io/tree/main/.well-known/did.json): Coming soon!
+- [Decentralized Verifiable Credential Exchange (DCVX)](https://github.com/TBD54566975/incubation-dcx))
+  - [protocols](https://github.com/FormFree/formfree.github.io/tree/main/.well-known/protocols)
+  - [schemas](https://github.com/FormFree/formfree.github.io/tree/main/.well-known/schemas)
+- [React Native Component Library](https://github.com/FormFree/react-native-ff-elements)
