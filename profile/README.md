@@ -3,7 +3,7 @@
 ## Welcome to FormFree! 👋
 
 - [FormFree DID document](https://github.com/FormFree/formfree.github.io/tree/main/.well-known/did.json) (Coming soon!)
-- [Decentralized Verifiable Credential Exchange (DCVX)](https://github.com/TBD54566975/incubation-dcx))
+- [Decentralized Credential Exchange (DCX)](https://github.com/TBD54566975/incubation-dcx))
   - [protocols](https://github.com/FormFree/formfree.github.io/tree/main/.well-known/protocols)
   - [schemas](https://github.com/FormFree/formfree.github.io/tree/main/.well-known/schemas)
 - [React Native Component Library](https://github.com/FormFree/react-native-ff-elements)
